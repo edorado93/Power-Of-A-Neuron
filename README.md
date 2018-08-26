@@ -1,4 +1,4 @@
-#Image Classification
+# Image Classification
 
 * Implemented a logistic regression model for image classification of cats vs dogs.
 * Published a detailed two part series explaining the bits and piecws of the entire process.
